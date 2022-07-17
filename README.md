@@ -1,0 +1,1 @@
+# Capture-video-and-send-to-another-py-file-to-analyze-with-help-of-socket-module
